@@ -3,7 +3,7 @@
 * Make changes to the tutorial to see how it reflects in the app.
 * Do you understand the link of the changes
 * Do you know the purpose of the files listed in the tutorial?
-2. Test out [marketplace](https://market.nativescript.org/) examples
+2. Test out [marketplace](https://market.nativescript.org/?tab=samples&framework=all_frameworks&category=all_samples) examples
 * Any examples that are useful?
 * Can you try to combine multiple examples together? If not, why you don't know how to do it?
 3. Write down questions and issues that you have during the experiments
