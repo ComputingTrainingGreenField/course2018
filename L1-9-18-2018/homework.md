@@ -19,4 +19,5 @@
 * [Functions](https://www.khanacademy.org/computing/computer-programming/programming/functions/pt/functions)
  
 5. Run through this graph to find out which programming language may fit your need:
-![Which Programming Language](https://github.com/ComputingTrainingGreenField/course2018/blob/master/L1-9-18-2018/images/which-programming-language.png)
+
+   ![Which Programming Language](https://github.com/ComputingTrainingGreenField/course2018/blob/master/L1-9-18-2018/images/which-programming-language.png)
