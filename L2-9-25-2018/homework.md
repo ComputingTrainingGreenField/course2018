@@ -16,7 +16,7 @@
   * Follow the instructions: https://docs.nativescript.org/start/quick-setup
   * Learn the basic of NativeScript CLI: https://docs.nativescript.org/start/cli-basics
   * Create a test app and run it with CLI (For windows environment, the run will trigger an Android emulator)
-2. Read project list and descriptions, do one of the following:
+2. Read [project list](https://github.com/ComputingTrainingGreenField/course2018/blob/master/L2-9-25-2018/projects.md) and descriptions, do one of the following:
 
    (1) Choose a project that you like  
    (2) Prepare a project idea and detail description for your own  
