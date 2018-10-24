@@ -48,7 +48,7 @@ Getting some inpirations from websites like: https://www.ideaswatch.com/startup-
    Extension potentials:
    * Share search and search results
    * Comment on search results
-   * Standarize search proxy server to build redundency
+   * Standardize search proxy server to build redundancy
 
 4. Waiting List  
    Make it easy for restaurant to manage waiting customers. Help customers to use virtual queue to wait for a table.
